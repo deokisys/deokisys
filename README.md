@@ -8,8 +8,8 @@
     <a href="https://deokisys.github.io/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://deokisys.github.io/" />
     </a>
-    <a href="https://deokisys.github.io/about/">
-        <img src="https://img.shields.io/badge/-about%20me-blue"/>
+    <a href="https://sixth-soul-f5d.notion.site/56776952969849c0a91e3262471224f5">
+      <img src="https://img.shields.io/badge/-portfolio-blue"/>
     </a>
 </p>
 <br> 
