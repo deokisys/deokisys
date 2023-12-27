@@ -49,7 +49,7 @@
 |삼성 S/W 역량테스트 A+형(Advanced 모의)|삼성|
 |프로그래머스 코딩전문역량인증 PCCP Lv3 695점|프로그래머스(그렙)|
 |HSAT(hyundai software aptitude test) Level3|현대엔지비(소프티어)|
-|Opic Level IL|ACTFL|
+|Opic Level IM1|ACTFL|
 
 <br>
 
@@ -70,7 +70,7 @@
 |네이버 부스트캠프|풀스택 개발자|2019|
 |네이버 FE플래폼 인턴|프론트엔드 개발자|2020|
 |네이버 부스트캠프 Tech AI|AI 엔지니어|2021|
-|삼성 SW 청년 소프트웨어 아카데미|1학기 수료 & 진행중|2022|
+|삼성 SW 청년 소프트웨어 아카데미|1학기,2학기 수료|2022|
 
  <br>
  
