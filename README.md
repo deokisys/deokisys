@@ -46,7 +46,7 @@
 |Certificate|Organization|
 |:---:|:---:|
 |SQLD|한국데이터산업진흥원|
-|삼성 S/W 역량테스트 A+형(Advanced 모의)|삼성|
+|삼성 S/W 역량테스트 B형(Pro)|삼성|
 |프로그래머스 코딩전문역량인증 PCCP Lv3 695점|프로그래머스(그렙)|
 |HSAT(hyundai software aptitude test) Level3|현대엔지비(소프티어)|
 |Opic Level IM1|ACTFL|
