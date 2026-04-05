@@ -14,8 +14,8 @@
 </p>
 <br> 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeokisys%2Fhit-counter&count_bg=%2390BBFF&title_bg=%23555555&icon=visualstudio.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-   
+![Hits](https://komarev.com/ghpvc/?username=deokisys&color=blue)
+
 <h4 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
@@ -40,6 +40,18 @@
 <p align="center">
 경기대학교 —  &nbsp; <em>컴퓨터 과학과 &nbsp;   2012.03 - 2018.02</em>
 </p>   
+
+<br>
+
+<h3 align="center"> 💼 Work Experience 💼</h3>
+
+|Company|Role|Date|
+|:---:|:---:|:---:|
+|NAVER FE플래폼|프론트엔드 개발자|2020.1 - 2020.2|
+|ZIO Robot|프론트엔드 개발자|2025.2 - 2025.12|
+|NAVER LABS|프론트엔드 인턴|2025.12 - 2026.6|
+
+<br>
 
 <h3 align="center"> 📕 Certificate 📕</h3>
 
@@ -68,7 +80,6 @@
 |Organization|Activity|Date|
 |:---:|:---:|:---:|
 |네이버 부스트캠프|풀스택 개발자|2019|
-|네이버 FE플래폼 인턴|프론트엔드 개발자|2020|
 |네이버 부스트캠프 Tech AI|AI 엔지니어|2021|
 |삼성 SW 청년 소프트웨어 아카데미|1학기,2학기 수료|2022|
 
